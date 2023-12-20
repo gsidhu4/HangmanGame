@@ -1,0 +1,1 @@
+This repository contains 3 files. The index.html file contains the stucture of hangman game on the webpage. THe styles.css file styles the webpage, including the background image and moving parts in the background image. The main.js file contains the logic behind the hangman game.
